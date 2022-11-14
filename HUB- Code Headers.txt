@@ -1,0 +1,13 @@
+#1)importing all the important modules - We also need to install the wikipedia module using command pip install wikipedia
+
+#2) We define the microsoft Speech API which is essentially a voice module which will be used in our project
+
+#3) We define the voice ID , which in this case we have taken David voice, which is a male AI voice
+
+#4) We define a function speak to convert our text to speech- Though this function the voice input will be converted into computer readable format for the AI to execute the functionality
+
+#5) Initiating the intro which the virtual AI will say after being called for- This is the introductory message for the AI
+
+#6) We define this function to the user speech input which will be most likely be given by a student - This function is for the speech input function wherein we define threshold time and other input options
+
+#7) We define this function to the user speech input which will be most likely be given by a student - These are the list of functionality which include accessing Wikipedia, stackoverflow and getting to know the current time which constitute majority of learning resources.

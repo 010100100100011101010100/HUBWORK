@@ -1,0 +1,2 @@
+New Version of Device
+This text document explains the new version of our project. We have integrated AI with the previous version of device. The AI uses text to speech and speech to speech recognition to give the results from wikipedia and other website. 
